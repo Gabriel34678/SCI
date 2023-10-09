@@ -232,10 +232,3 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     }
   }
 /*Fim da Animação do Fundo*/
-
-.kk {
-  text-align: center;
-  line-height: 110vh;
-  margin: 0px;
-  color: white;
-}
